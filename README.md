@@ -1,0 +1,2 @@
+# GazaFundrasing
+Medical_aid
